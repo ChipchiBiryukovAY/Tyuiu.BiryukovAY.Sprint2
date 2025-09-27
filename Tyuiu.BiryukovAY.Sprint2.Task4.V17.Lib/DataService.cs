@@ -13,7 +13,7 @@ namespace Tyuiu.BiryukovAY.Sprint2.Task4.V17.Lib
 
             double z = (x - 22 > Math.Sqrt(y))
                 ? Math.Pow(6 + 2 / x, y)
-                : y + Math.Pow(12 / x, 2);
+                : y + 12 / (x * x);
 
             return Math.Round(z, 3);
         }
