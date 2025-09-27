@@ -16,25 +16,25 @@ namespace Tyuiu.BiryukovAY.Sprint2.Task5.V15.Lib
             switch (dayOfWeek)
             {
                 case 0:
-                    dayName = "понедельник";
+                    dayName = "Понедельник";
                     break;
                 case 1:
-                    dayName = "вторник";
+                    dayName = "Вторник";
                     break;
                 case 2:
-                    dayName = "среда";
+                    dayName = "Среда";
                     break;
                 case 3:
-                    dayName = "четверг";
+                    dayName = "Четверг";
                     break;
                 case 4:
-                    dayName = "пятница";
+                    dayName = "Пятница";
                     break;
                 case 5:
-                    dayName = "суббота";
+                    dayName = "Суббота";
                     break;
                 case 6:
-                    dayName = "воскресенье";
+                    dayName = "Воскресенье";
                     break;
                 default:
                     throw new InvalidOperationException("Некорректный день недели");
