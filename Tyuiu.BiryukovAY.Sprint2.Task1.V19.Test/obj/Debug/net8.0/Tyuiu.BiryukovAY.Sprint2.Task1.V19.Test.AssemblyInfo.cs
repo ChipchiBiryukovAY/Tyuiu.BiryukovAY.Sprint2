@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.BiryukovAY.Sprint2.Task1.V19.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb01901fb3ad8d7c5db6a402a14ec563b97f8531")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9cfd85fd2089dce90dce4bbb518cdb78640298c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.BiryukovAY.Sprint2.Task1.V19.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.BiryukovAY.Sprint2.Task1.V19.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
