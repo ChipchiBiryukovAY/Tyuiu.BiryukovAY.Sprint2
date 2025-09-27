@@ -10,7 +10,7 @@ namespace Tyuiu.BiryukovAY.Sprint2.Task6.V3.Test
         {
             DataService ds = new DataService();
 
-            Assert.AreEqual("Понедельник", ds.FindDayName(1));
+            Assert.AreEqual("понедельник", ds.FindDayName(1));
         }
     }
 }
