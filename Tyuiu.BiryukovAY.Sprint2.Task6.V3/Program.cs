@@ -1,5 +1,6 @@
 ﻿using System;
 using Tyuiu.BiryukovAY.Sprint2.Task6.V3.Lib;
+
 internal class Program
 {
     private static void Main(string[] args)
@@ -12,4 +13,4 @@ internal class Program
         string result = ds.FindDayName(day);
         Console.WriteLine($"Это {result}");
     }
-}
+} 

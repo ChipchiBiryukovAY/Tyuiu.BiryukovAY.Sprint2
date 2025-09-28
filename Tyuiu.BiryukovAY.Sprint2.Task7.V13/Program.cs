@@ -15,4 +15,4 @@ internal class Program
         bool result = ds.CheckDotInShadedArea(x, y);
         Console.WriteLine($"Результат: {result}");
     }
-}
+} 
