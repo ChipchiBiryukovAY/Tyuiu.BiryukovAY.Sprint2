@@ -14,5 +14,5 @@ namespace Tyuiu.BiryukovAY.Sprint2.Task7.V13.Test
             Assert.IsTrue(ds.CheckDotInShadedArea(0, 0));
         }
     }
-}
+} 
  
